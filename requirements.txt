@@ -8,6 +8,9 @@ pip install scikit-image==0.16.2
 pip install seaborn==0.10.1
 
 
+install python version --3.7.0
+
+
 
 
 
